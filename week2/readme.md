@@ -8,3 +8,10 @@ import "fmt"
 func main() {
 fmt.Println("hello world")
 }
+
+
+执行结果：
+
+<img width="399" alt="image" src="https://github.com/jackmanliu/devops/assets/16659886/042f0ff9-be56-4e80-8a42-1a18929e667b">
+
+<img width="451" alt="image" src="https://github.com/jackmanliu/devops/assets/16659886/806d5a49-d059-45bc-9a0d-b2082397825a">
